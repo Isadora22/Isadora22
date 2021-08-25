@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá! Eu sou Isadora
 
-<!--
-**Isadora22/Isadora22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 ...
+- 🌱 Estudando Java / Spring Boot
+- 😄 Pronouns: ela/dela
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://www.linkedin.com/in/isadora-lemes-fernandes-a7a177161/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a href="https://github.com/Isadora22">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Isadora22&show_icons=true&theme=dark&include_all-commits=true&count_private=true" />
+</div>
+
+
+  
+
+
