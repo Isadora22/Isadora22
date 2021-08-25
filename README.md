@@ -11,10 +11,9 @@
 </div>
 
 ##
-
 <div>
   <a href="https://github.com/Isadora22">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Isadora22&show_icons=true&theme=dark&include_all-commits=true&count_private=true" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Isadora22&show_icons=true&theme=dark&include_all-commits=false&count_private=true" />
 </div>
 
 
