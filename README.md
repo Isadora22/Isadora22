@@ -1,8 +1,7 @@
 ### Olá! Eu sou Isadora
 
 - 🔭 ...
-- 🌱 Estudando Java / Spring Boot
-- 😄 Pronouns: ela/dela
+
 ##
 <div>
   <a href="https://www.linkedin.com/in/isadora-lemes-fernandes-a7a177161/" target="blank">
