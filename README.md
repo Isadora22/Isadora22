@@ -1,6 +1,5 @@
 ### Olá! Eu sou Isadora
 
-- 🔭 ...
 
 ##
 <div>
